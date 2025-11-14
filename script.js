@@ -2,7 +2,7 @@
 const adminCode = "admin123"; // admin Code
 const userCodes = {
   ramona: "oberwasser",
-  gianluca: "schlechtgamer",
+  gianluca: "yogurt",
   mary: "kochen",
   rolf: "gigu",
   angela: "kirche",
