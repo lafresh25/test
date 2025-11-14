@@ -12,11 +12,11 @@ const userCodes = {
 // Feste Zuordnung der Wichtelpartner
 const wichtelZuordnung = {
   ramona: "Giovanni",
-  gianluca: "Mary",
-  mary: "Rolf",
+  gianluca: "Rolf",
+  mary: "Gianluca",
   rolf: "Angela",
   angela: "Ramona",
-  giovanni: "Gianluca",
+  giovanni: "Mary",
 };
 
 // Funktion, um den Wichtelpartner anzuzeigen
